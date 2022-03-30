@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Beatriz Araújo
 - 👀 I’m interested in Systems Development
+- �  I’m currently working on BOSCH
 - 🌱 I’m currently learning Systems Development at SENAI
 - 📫 How to reach me: beatrizoliveiraaraujo10@gmail.com
 
