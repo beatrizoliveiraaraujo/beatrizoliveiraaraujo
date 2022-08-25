@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="img/thumbnail_Imagem.png" height="150" style="border-radius:50px;" src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif">
+  <img align="right" alt="img/thumbnail_Imagem.png" height="150" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-22.gif">
 </div>
   
   ##
