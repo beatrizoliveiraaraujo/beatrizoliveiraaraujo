@@ -46,8 +46,6 @@ Tenho 19 anos, moro em Campinas-SP e sou apaixonada por programação! Sou inici
  <p align="left">📚 Tenho estudado Java e iniciei meus estudos para desenvolver README;</p>
 </div>
 
-
-
 </br>
 
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/beatrizoliveirara)
@@ -65,3 +63,4 @@ Tenho 19 anos, moro em Campinas-SP e sou apaixonada por programação! Sou inici
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+![Snake animation](https://github.com/beatrizoliveiraaraujo/beatrizoliveiraaraujo/blob/output/github-contribution-grid-snake.svg)
