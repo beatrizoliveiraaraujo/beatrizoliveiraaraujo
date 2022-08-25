@@ -1,4 +1,4 @@
-## Olá eu sou a Beatriz oliveira, Tenho 19 anos e sou iniciante em programação!!
+## Olá meu nome é Beatriz oliveira, Tenho 19 anos e sou iniciante em programação!!
 <div align="center">
   <a href="https://github.com/beatrizoliveiraaraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizoliveiraaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
